@@ -1,0 +1,20 @@
+/* html{
+    font-size: 63.3px;
+} */
+
+.caja{
+    font-size: 12px;
+}
+
+.caja h2{
+    font-size: 4rem;
+}
+
+.caja p{
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+ul{
+    font-size: 1.9rem;
+}
